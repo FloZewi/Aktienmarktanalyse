@@ -1,0 +1,25 @@
+# Virtuelle Umgebungen
+venv/
+env/
+
+# Bytecode-Dateien
+__pycache__/
+*.pyc
+*.pyo
+
+# Log-Dateien
+*.log
+
+# IDE-spezifische Dateien
+.idea/
+*.iml
+
+# Datenverzeichnisse
+data/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System-Dateien
+.DS_Store
+Thumbs.db
